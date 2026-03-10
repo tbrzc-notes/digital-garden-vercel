@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/holap/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/holap/","tags":["gardenEntry"],"dgEnableSearch":true}
 ---
 

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/libros/literatura-universal/autores/franz-kafka/"}
+{"dg-publish":true,"permalink":"/libros/literatura-universal/autores/franz-kafka/","dg-note-properties":{"permalink":"/libros/literatura-universal/autores/franz-kafka/"}}
 ---
+
 
 
 quien fue?

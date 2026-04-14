@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/vida/intencion-anhelo/"}
+{"dg-publish":true,"permalink":"/vida/intencion-anhelo/","dg-note-properties":{"permalink":"/vida/intencion-anhelo/"}}
 ---
+
 
 
 La intención es tan simple como pensar en lo que quiero hacer HOY
